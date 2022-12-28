@@ -1,1 +1,1 @@
-# A-SearchPathFinding
+# AStar-SearchPathFinding
