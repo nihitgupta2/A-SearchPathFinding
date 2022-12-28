@@ -1,5 +1,4 @@
 # Nihit Gupta 
-# Id 20759430
 import numpy as np 
 import matplotlib.pyplot as plt
 import copy
